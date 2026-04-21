@@ -540,9 +540,9 @@ export default function App() {
 
           <div>
             <h4>Contact</h4>
-            <p>Email: hello@kyraaura.com</p>
-            <p>Phone: +1 234 567 890</p>
-            <p>Location: Your City, Your Country</p>
+            <p>Email: alihaidar005911@gmail.com</p>
+            <p>Phone: +92 309 9091 193</p>
+            <p>Location: Chungi Amar Sidhu, Lahore</p>
           </div>
         </div>
 
